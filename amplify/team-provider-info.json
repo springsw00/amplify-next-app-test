@@ -10,6 +10,11 @@
       "StackName": "amplify-amplifynexttest-test-174616",
       "StackId": "arn:aws:cloudformation:ap-northeast-2:961423675753:stack/amplify-amplifynexttest-test-174616/34b4bd80-b1c4-11ed-89cf-0a2cb37c6dac",
       "AmplifyAppId": "dwalx4ptolgae"
+    },
+    "categories": {
+      "auth": {
+        "amplifynexttest7d47b985": {}
+      }
     }
   }
 }
